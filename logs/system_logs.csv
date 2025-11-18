@@ -1,0 +1,24 @@
+timestamp,event_type,message
+2025-10-28T18:37:31.796294,CHAT,hi
+2025-10-28T18:37:47.861024,CHAT,hi
+2025-10-28T18:38:02.641050,MODEL,trained
+2025-10-28T18:38:30.519913,CHAT,hi
+2025-10-28T18:39:11.391058,PREDICT,"{'direction': 'UP', 'confidence': 0.6}"
+2025-10-28T18:39:47.860283,PREDICT,"{'direction': 'UP', 'confidence': 0.6}"
+2025-10-28T18:42:03.882147,MODEL,trained
+2025-10-28T18:42:16.084324,PREDICT,"{'direction': 'UP', 'confidence': 0.6}"
+2025-10-28T18:42:49.709338,CHAT,hello
+2025-10-28T18:46:12.972034,SENTIMENT,"{'polarity': 0.0, 'label': 'Neutral'}"
+2025-10-28T18:46:24.540425,MODEL,trained
+2025-10-28T18:47:12.840213,CHAT,hello
+2025-10-28T18:47:29.116120,CHAT,"Bitcoin surges above $70,000 as investors show renewed confidence in crypto markets."
+2025-10-28T18:58:32.863067,CHAT,"Bitcoin surges above $70,000 as investors show renewed confidence in crypto markets."
+2025-10-28T18:58:49.360068,CHAT,Price
+2025-11-16T14:26:53.984849,MODEL,trained
+2025-11-16T14:26:56.958626,PREDICT,"{'direction': 'UP', 'confidence': 0.6}"
+2025-11-16T18:07:38.857616,CHAT,gy
+2025-11-18T20:13:05.682255,MODEL,trained
+2025-11-18T20:13:16.347415,MODEL,trained
+2025-11-18T20:13:18.230937,PREDICT,"{'direction': 'UP', 'confidence': 0.58}"
+2025-11-18T20:13:51.352934,MODEL,trained
+2025-11-18T21:31:59.380576,MODEL,trained

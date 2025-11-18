@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+textblob
+python-binance
+matplotlib
+openai
+python-dotenv
+joblib
