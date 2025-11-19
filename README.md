@@ -33,25 +33,20 @@ The **Stock Price & Sentiment Predictor** is a Python-based platform that analyz
 ```
 
 ## 6. Installation & Setup
-1. Clone the repository:
-```bash
-git clone https://github.com/muhammadmoiz2005/Stock-Price-Sentiment-Predictor.git
-cd Stock-Price-Sentiment-Predictor
-```
 
-2. Create a virtual environment:
+1. Create a virtual environment:
 ```bash
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 ```
 
-3. Install dependencies:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-4. (Optional) Add Bybit API keys in `.env` for realtime data:
+3. (Optional) Add Bybit API keys in `.env` for realtime data:
 ```text
 API_KEY=your_api_key
 API_SECRET=your_api_secret
