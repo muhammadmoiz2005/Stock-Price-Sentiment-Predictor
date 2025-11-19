@@ -12,7 +12,7 @@ The **Stock Price & Sentiment Predictor** is a Python-based platform that analyz
 ## 3. Features Implemented
 - Historical data visualization from `historical.csv`.
 - Sentiment analysis using TextBlob / Transformer-based models.
-- Simple ML predictive model (Random Forest / Logistic Regression).
+- Simple ML predictive model RandomForestClassifier.
 - Streamlit frontend dashboard for interactive visualization.
 - Modular backend for easy updates.
 
